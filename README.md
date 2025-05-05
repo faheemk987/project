@@ -1,4 +1,4 @@
  # project
  This is my fisrt demo project.
  <br>
- faheem khan.
+ faheem khan.(demo class)
